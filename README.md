@@ -1,5 +1,7 @@
 # 🎮 Игра "Виселица"
 
+![](assets/video-title.gif)
+
 Проект выполнен в рамках воркшопа по модулю **"Основы программирования"** курса *Frontend-разработчик* от Нетологии.
 
 📌 **Демо проекта:** [GitHub Pages](https://potykalov.github.io/hangmanGame/)  
